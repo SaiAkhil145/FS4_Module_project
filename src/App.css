@@ -11,7 +11,7 @@ body {
 
 .loader {
   border: 5px solid #E0E0E0;
-  border-top: 5px solid #3897F0; /* Instagram blue accent */
+  border-top: 5px solid #3897F0;
   border-radius: 50%;
   width: 40px;
   height: 40px;
